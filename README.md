@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![office gif](https://user-images.githubusercontent.com/104242480/167948054-139b8287-ee2c-472d-a9ff-8b85b99d75fc.gif)
+
+
+I am so happy you are here! Thanks for venturing to my README.md or my About Me. 
+
+Aspiring full-stack software engineer. Trying to push myself to learn new things daily. The last few weeks I have been focused on gathering information from multiple API sources. 
+
+I can not wait to begin working with other classmates in General Assembly Cohort. 
+
 <!--
 **h1n3s1ght/h1n3s1ght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
