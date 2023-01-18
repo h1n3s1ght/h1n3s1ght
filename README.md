@@ -39,7 +39,13 @@ Focuses recently have been in the areas of API Gateways and Proxies through Apig
   * SQL
   * MySQL
   * PostgreSQL
-  * Apigee  
+  * GCP
+    * Apigee
+  * AWS
+    * EC2
+    * Lambda
+    * S3
+  * ### & Much More!
 
 
 
