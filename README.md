@@ -4,12 +4,11 @@
 
 Hey my name is Ben Hines.
 
-At 19 years old I ventured into the entrepreneurship arena by assisting in the starting of Fanvester. This experience with our development team inspired me look further into development. I graduated from Miami University with an Interactive Media Studies (or Computer Science equivalent) degree.  This all while working at Apple in nearly a full-time career while putting myself through school.  While at Apple I was awarded merits within Apple for having the highest customer survey scores on the technical side of the store twice. While in the pandemic, I utilized the free time to increase my technical skills by seeking an AWS Cloud Practitioner Certification and a Certification in General Assembly’s Software Engineering Immersive Course. What excites me moving forward, would be to work as a Software Engineer and eventually lead, a multidimensional software-development team.
-I am so happy you are here! Thanks for venturing to my README.md or my About Me. 
+At the age of 19, I embarked on an entrepreneurial journey by co-founding Fanvester. This experience with our development team ignited my passion for technology and prompted me to explore the vast possibilities it offers. Graduating from Miami University with a degree equivalent to Computer Science, I balanced my education while working nearly full-time at Apple, earning recognition for top customer survey scores.
 
-Actively pushing myself to learn new things daily. The last few weeks I have been focused on gathering information from multiple API sources. 
+During the pandemic, I capitalized on my free time to enhance my technical expertise, obtaining an AWS Cloud Practitioner Certification and completing General Assembly’s Software Engineering Immersive Course. Notably, I swiftly transitioned into a role at SID Global Solutions, where I demonstrated my ability to rapidly learn and contribute effectively. I am now eager to leverage my adaptability, rapid learning skills, and leadership capabilities in a Software Engineer role, with aspirations to lead multidimensional software development teams.
 
-Focuses recently have been in the areas of API Gateways and Proxies through Apigee (Edge and X).  I have also been sharpening my Java skills with Spring/SpringBoot/Maven projects.
+I have been recently sharpening my Java skills with Spring/SpringBoot/Maven projects.
 
 ## Current List of Skills:
 
